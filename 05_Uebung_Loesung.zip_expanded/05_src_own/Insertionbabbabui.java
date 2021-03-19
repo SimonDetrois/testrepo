@@ -7,6 +7,9 @@ public class Insertionbabbabui {
 		babba(ar);
 		for (int i = 0; i < ar.length; i++) {
 			System.out.print(ar[i] + " ");
+
+
+			// WAS FÜR EINS TOLLES PROGRAMM!!!!SUPER SIMON SUPER!
 		}
 
 	}
